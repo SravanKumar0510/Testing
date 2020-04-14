@@ -1,2 +1,3 @@
 hjfdhgfgdk
 new file for stash
+added for new commit histor for amending them
